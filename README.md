@@ -1,1 +1,1 @@
-Basic expense tracker by me
+Simple projects created by me
