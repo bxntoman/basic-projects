@@ -1,1 +1,3 @@
-Simple projects created by me
+# small-projects
+---
+## Programs
