@@ -1,3 +1,3 @@
-# small-projects
+# little-projects
 ---
 ## Programs
